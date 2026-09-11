@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0.0",
-  "url": "https://github.com/mhmmdazizy/Certigo-Releases/releases/download/v1.1.0/CertigoInstaller.msi",
-  "notes": "- update v1.1.0\n- Sukses terhubung!"
+  "version": "1.2.0.0",
+  "url": "https://github.com/mhmmdazizy/Certigo-Releases/releases/download/v1.2.0/CertigoInstaller.msi",
+  "notes": "- fix body text width to 0.8f\n- fix version number in about menu"
 }
