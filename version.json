@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0.0",
-  "url": "https://github.com/mhmmdazizy/Certigo-Releases/releases/download/v1.3.0/CertigoInstaller.msi",
-  "notes": "- fix bug auto-formatting"
+  "version": "1.4.0.0",
+  "url": "https://github.com/mhmmdazizy/Certigo-Releases/releases/download/v1.4.0/CertigoInstaller.msi",
+  "notes": "- fix logic for duplicate names"
 }
